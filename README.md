@@ -10,7 +10,7 @@ My LeetCode solutions.
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | [Python](https://github.com/olma2077/LeetCode/blob/master/Python3/Rotate%20Image.py) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | [Python](https://github.com/olma2077/LeetCode/blob/master/Python3/Plus%20One) |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Easy | [Python](https://github.com/olma2077/LeetCode/blob/master/Python3/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py) \| [JavaScript](https://github.com/olma2077/LeetCode/blob/master/JavaScript/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.js) |
-| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/olma2077/LeetCode/blob/master/Python3/Valid%20Palindrome.py) |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [Python](https://github.com/olma2077/LeetCode/blob/master/Python3/Valid%20Palindrome.py) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | [Python](https://github.com/olma2077/LeetCode/blob/master/Python3/Single%20Number.py) \| [JavaScript](https://github.com/olma2077/LeetCode/blob/master/JavaScript/Single%20Number.js) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Easy | [Python](https://github.com/olma2077/LeetCode/blob/master/Python3/Rotate%20Array.py) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [Python](https://github.com/olma2077/LeetCode/blob/master/Python3/Contains%20Duplicate.py) |
