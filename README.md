@@ -13,6 +13,7 @@ My LeetCode solutions.
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [Python](https://github.com/olma2077/LeetCode/blob/master/Python3/Valid%20Palindrome.py) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | [Python](https://github.com/olma2077/LeetCode/blob/master/Python3/Single%20Number.py) \| [JavaScript](https://github.com/olma2077/LeetCode/blob/master/JavaScript/Single%20Number.js) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Easy | [Python](https://github.com/olma2077/LeetCode/blob/master/Python3/Rotate%20Array.py) |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | Easy | [Python](https://github.com/olma2077/LeetCode/blob/master/Python3/Happy%20Number.py) \| [JavaScript](https://github.com/olma2077/LeetCode/blob/master/JavaScript/Happy%20Number.js) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [Python](https://github.com/olma2077/LeetCode/blob/master/Python3/Contains%20Duplicate.py) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [Python](https://github.com/olma2077/LeetCode/blob/master/Python3/Valid%20Anagram.py) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [Python](https://github.com/olma2077/LeetCode/blob/master/Python3/Move%20Zeroes.py) \| [JavaScript](https://github.com/olma2077/LeetCode/blob/master/JavaScript/Move%20Zeroes.js) |
@@ -22,3 +23,4 @@ My LeetCode solutions.
 | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | Medium | [Python](https://github.com/olma2077/LeetCode/blob/master/Python3/Find%20All%20Duplicates%20in%20an%20Array.py) |
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | Easy | [Python](https://github.com/olma2077/LeetCode/blob/master/Python3/Lucky%20Numbers%20in%20a%20Matrix.py) |
 | 1381 | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | Medium | [Python](https://github.com/olma2077/LeetCode/blob/master/Python3/Design%20a%20Stack%20With%20Increment%20Operation.py) |
+| 1382 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | Medium | [Python](https://github.com/olma2077/LeetCode/blob/master/Python3/Balance%20a%20Binary%20Search%20Tree.py) |
