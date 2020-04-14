@@ -8,6 +8,7 @@ My LeetCode solutions.
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [Python](https://github.com/olma2077/LeetCode/blob/master/Python3/Remove%20Duplicates%20from%20Sorted%20Array.py) |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [Python](https://github.com/olma2077/LeetCode/blob/master/Python3/Valid%20Sudoku.py) |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | [Python](https://github.com/olma2077/LeetCode/blob/master/Python3/Rotate%20Image.py) |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [Python](https://github.com/olma2077/LeetCode/blob/master/Python3/Maximum%20Subarray.py) \| [JavaScript](https://github.com/olma2077/LeetCode/blob/master/JavaScript/Maximum%20Subarray.js) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | [Python](https://github.com/olma2077/LeetCode/blob/master/Python3/Plus%20One) |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Easy | [Python](https://github.com/olma2077/LeetCode/blob/master/Python3/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py) \| [JavaScript](https://github.com/olma2077/LeetCode/blob/master/JavaScript/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.js) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [Python](https://github.com/olma2077/LeetCode/blob/master/Python3/Valid%20Palindrome.py) |
